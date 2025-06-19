@@ -1,0 +1,9 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Add any global styles here */
+page {
+  height: 100%;
+  background-color: #f7fafc; /* Example background */
+}
